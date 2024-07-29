@@ -2169,6 +2169,7 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.7",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.7",
           "Microsoft.EntityFrameworkCore": "8.0.7",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
@@ -5627,11 +5628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\ShopWebAPITest.csproj",
+      "projectUniqueName": "D:\\Task Of Tatweer\\ShopWeb\\Shopweb\\Shop_web_API\\ShopWebAPITest\\ShopWebAPITest.csproj",
       "projectName": "ShopWebAPITest",
-      "projectPath": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\ShopWebAPITest.csproj",
+      "projectPath": "D:\\Task Of Tatweer\\ShopWeb\\Shopweb\\Shop_web_API\\ShopWebAPITest\\ShopWebAPITest.csproj",
       "packagesPath": "C:\\Users\\Electronica Care\\.nuget\\packages\\",
-      "outputPath": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\obj\\",
+      "outputPath": "D:\\Task Of Tatweer\\ShopWeb\\Shopweb\\Shop_web_API\\ShopWebAPITest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5654,8 +5655,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Shop_web_API.csproj": {
-              "projectPath": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Shop_web_API.csproj"
+            "D:\\Task Of Tatweer\\ShopWeb\\Shopweb\\Shop_web_API\\Shop_web_API\\Shop_web_API.csproj": {
+              "projectPath": "D:\\Task Of Tatweer\\ShopWeb\\Shopweb\\Shop_web_API\\Shop_web_API\\Shop_web_API.csproj"
             }
           }
         }

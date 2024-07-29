@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "apis1": {
-      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/ShopwebAPIapi/apis/ShopwebAPI",
-      "type": "apis.azure"
-    }
-  }
-}

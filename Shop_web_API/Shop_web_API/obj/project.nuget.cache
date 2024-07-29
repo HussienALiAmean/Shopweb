@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QJjQYwTbSCE=",
+  "dgSpecHash": "6pC71XX5Ma0=",
   "success": true,
-  "projectFilePath": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Shop_web_API.csproj",
+  "projectFilePath": "D:\\Task Of Tatweer\\ShopWeb\\Shopweb\\Shop_web_API\\Shop_web_API\\Shop_web_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Electronica Care\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Electronica Care\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
