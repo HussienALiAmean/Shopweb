@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Task Of Tatweer\\Shop_web_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\shop_web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\shop_web_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F82D48-167F-4864-8DB7-865E894728AA}|ShopWebAPITest\\ShopWebAPITest.csproj|d:\\task of tatweer\\shop_web_api\\shopwebapitest\\orderscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F82D48-167F-4864-8DB7-865E894728AA}|ShopWebAPITest\\ShopWebAPITest.csproj|solutionrelative:shopwebapitest\\orderscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F82D48-167F-4864-8DB7-865E894728AA}|ShopWebAPITest\\ShopWebAPITest.csproj|d:\\task of tatweer\\shop_web_api\\shopwebapitest\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F82D48-167F-4864-8DB7-865E894728AA}|ShopWebAPITest\\ShopWebAPITest.csproj|solutionrelative:shopwebapitest\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F82D48-167F-4864-8DB7-865E894728AA}|ShopWebAPITest\\ShopWebAPITest.csproj|d:\\task of tatweer\\shop_web_api\\shopwebapitest\\accountcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F82D48-167F-4864-8DB7-865E894728AA}|ShopWebAPITest\\ShopWebAPITest.csproj|solutionrelative:shopwebapitest\\accountcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\service\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\service\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\repositories\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\service\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\service\\productservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\migrations\\20240727075549_shopdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\migrations\\20240727075549_shopdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\repositories\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\repositories\\productrepository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\repositories\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\repositories\\productrepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\repositories\\productrepository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|d:\\task of tatweer\\shop_web_api\\shop_web_api\\models\\enums\\productstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778D610D-BF57-470B-BFB5-CB0B7928A632}|Shop_web_API\\Shop_web_API.csproj|solutionrelative:shop_web_api\\models\\enums\\productstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersControllerTests.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\OrdersControllerTests.cs",
+              "RelativeDocumentMoniker": "ShopWebAPITest\\OrdersControllerTests.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\OrdersControllerTests.cs",
+              "RelativeToolTip": "ShopWebAPITest\\OrdersControllerTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:33:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "ShopWebAPITest\\ProductsControllerTests.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\ProductsControllerTests.cs",
+              "RelativeToolTip": "ShopWebAPITest\\ProductsControllerTests.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwCEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:34:45.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Shop_web_API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAkwMgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:39:02.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:48:00.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shop_web_API.csproj",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Shop_web_API.csproj",
+              "RelativeDocumentMoniker": "Shop_web_API\\Shop_web_API.csproj",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Shop_web_API.csproj",
+              "RelativeToolTip": "Shop_web_API\\Shop_web_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T07:54:28.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Shop_web_API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAQwIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:27:27.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountControllerTests.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\AccountControllerTests.cs",
+              "RelativeDocumentMoniker": "ShopWebAPITest\\AccountControllerTests.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\ShopWebAPITest\\AccountControllerTests.cs",
+              "RelativeToolTip": "ShopWebAPITest\\AccountControllerTests.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwCQAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:25:50.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Shop_web_API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:38:59.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderProductDTO.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\OrderProductDTO.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\DTOs\\OrderProductDTO.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\OrderProductDTO.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\DTOs\\OrderProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T06:00:10.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Service\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Service\\OrderService\\OrderService.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Service\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "Shop_web_API\\Service\\OrderService\\OrderService.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAQwIIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:40:00.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "Shop_web_API\\Repositories\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAABQwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:07:52.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Service\\ProductService\\ProductService.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Service\\ProductService\\ProductService.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Service\\ProductService\\ProductService.cs",
+              "RelativeToolTip": "Shop_web_API\\Service\\ProductService\\ProductService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA2wCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T06:21:57.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:14:29.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:20:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\DTOs\\OrderDTO.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:47:37.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Shop_web_API\\appsettings.json",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\appsettings.json",
+              "RelativeToolTip": "Shop_web_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-27T07:57:54.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Program.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Program.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Program.cs",
+              "RelativeToolTip": "Shop_web_API\\Program.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAowH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T07:51:21.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240727075549_ShopData.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Migrations\\20240727075549_ShopData.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Migrations\\20240727075549_ShopData.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Migrations\\20240727075549_ShopData.cs",
+              "RelativeToolTip": "Shop_web_API\\Migrations\\20240727075549_ShopData.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAtwIcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T07:55:49.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\Product.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\Product.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T12:55:00.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\Order.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\Order.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T16:13:13.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Repositories\\ProductRepository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Repositories\\ProductRepository\\ProductRepository.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Repositories\\ProductRepository\\ProductRepository.cs",
+              "RelativeToolTip": "Shop_web_API\\Repositories\\ProductRepository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T06:55:52.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "Shop_web_API\\Repositories\\GenericRepository\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T06:51:01.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Profiles\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Profiles\\OrderProfile.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Profiles\\OrderProfile.cs",
+              "RelativeToolTip": "Shop_web_API\\Profiles\\OrderProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T06:03:06.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Profiles\\ProductProfile.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "Shop_web_API\\Profiles\\ProductProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:57:30.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\OrderProduct.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\OrderProduct.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T06:00:17.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Repositories\\ProductRepository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Repositories\\ProductRepository\\IProductRepository.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Repositories\\ProductRepository\\IProductRepository.cs",
+              "RelativeToolTip": "Shop_web_API\\Repositories\\ProductRepository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T08:40:49.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "productStatus.cs",
+              "DocumentMoniker": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\enums\\productStatus.cs",
+              "RelativeDocumentMoniker": "Shop_web_API\\Models\\enums\\productStatus.cs",
+              "ToolTip": "D:\\Task Of Tatweer\\Shop_web_API\\Shop_web_API\\Models\\enums\\productStatus.cs",
+              "RelativeToolTip": "Shop_web_API\\Models\\enums\\productStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:58:47.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
