@@ -1,0 +1,47 @@
+<div class="container mt-4">
+    <h2>Products</h2>
+    <div class="row form-group">
+    <div class="col-2 p-4">
+      <label  for="filter">Filter by Name:</label>
+    </div>
+    <div class="col-10 p-3">
+      <input type="text" id="filter" [(ngModel)]="filterText" (input)="filterProducts()" class=" form-control" placeholder="Enter product name">
+    </div>
+    </div>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th (click)="sortByName()">Name 
+            <span *ngIf="isSortAsc">&#9650;</span>
+            <span *ngIf="!isSortAsc">&#9660;</span>
+          </th>
+          <th>Price</th>
+          <th>Quantity</th>
+          <th>Visible</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+         <tr *ngFor="let product of filteredProducts">   <!--// we can use Pipe -->
+          <td>{{ product.name }}</td>
+          <td><input type="number" [(ngModel)]="product.price" min="0" (change)="updateProduct(product)"></td>
+          <td><input type="number" [(ngModel)]="product.quantity" min="0"(change)="updateProduct(product)"></td>
+          <td><mat-slide-toggle [(ngModel)]="product.isVisible" (change)="updateProduct(product)"></mat-slide-toggle></td>
+          <td>
+            <button class="btn btn-danger" (click)="deleteProduct(product.id)"> Delete <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
+              <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5m3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0z"/>
+              <path d="M14.5 3a1 1 0 0 1-1 1H13v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V4h-.5a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1H6a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1h3.5a1 1 0 0 1 1 1zM4.118 4 4 4.059V13a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V4.059L11.882 4zM2.5 3h11V2h-11z"/>
+            </svg></button>
+          </td>
+        </tr>
+        <tr>
+          <td><input type="text" [(ngModel)]="newProduct.name"></td>
+          <td><input type="number" min="0" [(ngModel)]="newProduct.price"></td>
+          <td><input type="number" min="0" [(ngModel)]="newProduct.quantity"></td>
+          <td><mat-slide-toggle [(ngModel)]="newProduct.isVisible"></mat-slide-toggle></td>
+          <td><button [disabled]="!newProduct.name || !newProduct.price || !newProduct.quantity" class="btn btn-primary" (click)="addProduct()">Add Product</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  

@@ -1,0 +1,21 @@
+/* styles.css */
+fieldset {
+   border: 1px solid;
+  }
+  
+  legend {
+    font-weight: bold;
+    border: 2px solid #000000;
+  }
+  table {
+    width: 100%;
+  }
+  
+  th {
+    cursor: pointer;
+  }
+  
+  .sort-indicator {
+    font-size: 0.8em;
+    margin-left: 5px;
+  }

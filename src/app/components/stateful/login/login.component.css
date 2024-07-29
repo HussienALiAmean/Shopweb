@@ -1,0 +1,16 @@
+.login-container {
+  margin: 20px auto;
+  max-width: 400px;
+}
+
+mat-card {
+  padding: 20px;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+button {
+  margin-top: 20px;
+}
