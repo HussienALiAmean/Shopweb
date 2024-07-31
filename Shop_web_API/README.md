@@ -8,14 +8,14 @@ Run `Dotnet Run` for a dev server. Navigate to `http://localhost:5002/`.
 
 ## Code Dependancy 
 
-1-aspnetcore.authentication.jwtbearer\8.0.7
-2-aspnetcore.identity.entityframeworkcore\8.0.7
-3-entityframeworkcore\8.0.7
-4-entityframeworkcore.design\8.0.7
-5-entityframeworkcore.relational\8.0.7
-6-entityframeworkcore.sqlserver\8.0.7
-7-entityframeworkcore.tools\8.0.7
-8-automapper.extensions.microsoft.dependencyinjection\12.0.1
+| 1-aspnetcore.authentication.jwtbearer\8.0.7 |
+| 2-aspnetcore.identity.entityframeworkcore\8.0.7 |
+| 3-entityframeworkcore\8.0.7 |
+| 4-entityframeworkcore.design\8.0.7 |
+| 5-entityframeworkcore.relational\8.0.7 |
+| 6-entityframeworkcore.sqlserver\8.0.7 |
+| 7-entityframeworkcore.tools\8.0.7 |
+| 8-automapper.extensions.microsoft.dependencyinjection\12.0.1 |
 
 
 ## API List
