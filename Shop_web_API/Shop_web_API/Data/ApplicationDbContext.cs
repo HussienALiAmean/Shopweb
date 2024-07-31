@@ -11,7 +11,7 @@ namespace Shop_web_API.Data
         }
 
         public DbSet<Product> Products { get; set; }
-        public DbSet<Product> Orders { get; set; }
+        public DbSet<Order> Orders { get; set; }
         public DbSet<OrderProduct> OrderProducts { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
